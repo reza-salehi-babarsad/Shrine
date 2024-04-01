@@ -10,6 +10,11 @@ class Shape {
         medium = CutCornerShape(8.dp),
         large = CutCornerShape(topStart = 24.dp)
     )
+    val Shapes2 = Shapes(
+        small = CutCornerShape(4.dp),
+        medium = CutCornerShape(8.dp),
+        large = CutCornerShape(topStart = 24.dp)
+    )
 
 
 }
