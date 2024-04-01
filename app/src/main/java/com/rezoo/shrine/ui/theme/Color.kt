@@ -4,7 +4,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.material.lightColors
 
 
-
 val ShrinePink10 = Color(0xfffffbfa)
 val ShrinePink50 = Color(0xfffeeae6)
 val ShrinePink100 = Color(0xfffedbd0)
